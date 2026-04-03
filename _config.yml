@@ -1,0 +1,10 @@
+theme: jekyll-theme-minimal
+title: Antigravity AI Learning Roadmap
+description: Personal learning journey - view only, no redistribution
+show_downloads: false
+github:
+  is_project_page: false
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
