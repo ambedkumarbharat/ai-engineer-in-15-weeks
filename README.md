@@ -33,12 +33,12 @@ This is a **complete, self-paced curriculum** to transform a software engineer i
 
     ┌─────────────────────────────────────────────────────────────────┐
     │                                                                 │
-    │   PHASE 1 ─── Foundations (3 weeks)                            │
-    │   🐍 Python │ ⚡ FastAPI │ 🔀 Git │ 🐧 Linux │ 🐳 Docker     │
+    │   PHASE 1 ─── Foundations (3 weeks)                             │
+    │   🐍 Python │ ⚡ FastAPI │ 🔀 Git │ 🐧 Linux │ 🐳 Docker      │
     │       └──→ 📦 Mini Project: Dockerized Text Analysis API       │
     │                           │                                     │
     │                           ▼                                     │
-    │   PHASE 2 ─── Databases (2 weeks)                              │
+    │   PHASE 2 ─── Databases (2 weeks)                                │
     │   🐘 PostgreSQL │ 🔴 Redis │ 🍃 MongoDB │ 📐 Vector DBs       │
     │       └──→ 📦 Mini Project: Multi-Database User Profile System │
     │                           │                                     │
